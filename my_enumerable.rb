@@ -16,7 +16,7 @@ module MyEnumerable
 
   def filter?
     arr = []
-    each { |n| arr.push(i) if yield(i) }
+    each { |_n| arr.push(i) if yield(i) }
     arr
   end
 end
