@@ -56,6 +56,14 @@ Feel free to check the [issues page](../../issues) .
 - Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
 - LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
 
+## Author
+
+**Anicet Murhula**
+
+- GitHub: [@AnicetFantomas](https://github.com/AnicetFantomas)
+
+- LinkedIn: [Anicet Murhula](https://www.linkedin.com/in/anicet-murhula-13a1b0220/)
+
 
 ## Acknowledgements
 
